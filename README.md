@@ -1,6 +1,6 @@
 # Hello, World 🙃
 <ins> </ins>
-Some days I build web app, some days i broke them too. <br />
+Some days I build web app, some days I broke them too. <br />
 At this point, I think I'm already married to React. <br />
 
 <!--
