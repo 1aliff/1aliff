@@ -1,7 +1,7 @@
-# Hello, World 🙃
+# Hello 🙃
 <ins> </ins>
 Some days I build web applications, some days I break them too. <br />
-At this point, I think I'm already married to React. <br />
+Hoping to connect with GitHub community and grow as a developer.
 
 <!--
 **1aliff/1aliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
